@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishi
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Projects Associated with Software Development.
+- 🌱 I’m currently learning WEB Development.
+- 💞️ I’m looking to collaborate related to Software Development.
 - 📫 How to reach me : sanerishi0603@gmail.com
 
 <!---
