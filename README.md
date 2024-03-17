@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rishi
-- 👀 I’m interested to Explore in the Field of Machine Learning.
-- 🌱 I’m Familiar with WEB Development.
+- 🌱 I’m Familiar with Full Stack Development.
 - 💞️ I’m looking to collaborate related to Software Development.
 - 📫 How to reach me : sanerishi0603@gmail.com
 
